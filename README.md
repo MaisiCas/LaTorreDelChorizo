@@ -1,2 +1,0 @@
-# LaTorreDelChorizo
-Un proyecto escolar
