@@ -58,7 +58,6 @@ img {
 
 .info {
     display: flex;
-    justify-self: center;
     margin: 20px;
     width: 100vh;
     height: 150vh;
@@ -96,4 +95,5 @@ img {
 
 .photo {
     flex: 1;
+
 }
